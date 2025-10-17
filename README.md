@@ -1,16 +1,85 @@
-## Hi there 👋
+# Yashwanth K 
 
-<!--
-**YashwanthK18/YashwanthK18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## ⚡ Languages, Tools and Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table> 
+<tr>
+<td>
+<strong>Frontend</strong>
+</td>
+<td>
+<strong>Version Control</strong>
+</td>
+<td>
+<strong>Editors</strong>
+</td>
+</tr>
+<tr>
+<td>
+<img src = "https://skillicons.dev/icons?i=js,bootstrap,figma" >
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=git,github&theme=dark">
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=vscode,pycharm&theme=dark">
+</td>
+</tr>
+</table>
+
+
+<table>
+<tr>
+<td>
+<strong>Databases</strong>
+</td>
+<td>
+<strong>Languages</strong>
+</td>
+</tr>
+<tr>
+<td>
+<img src = "https://skillicons.dev/icons?i=mongodb,supabase&theme=dark">
+</td>
+<td>
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,js,java&theme=dark">
+</td>
+</tr>
+</table>
+
+
+<table> 
+<tr>
+<td>
+<strong>Python Libraries</strong>
+</td>
+</tr>
+<tr>
+<td>
+<img src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" >
+</td><td>
+<img src = "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" >
+</td>
+<td>
+<img src = "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" >
+</td>
+<td>
+<img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
+</td>
+</tr>
+</table>
+<hr>
+
+
+<table>
+<tr>
+<td colspan = "2">
+<a href = "https://pranith-portfolio-bimfpo0e5-pranith-kumar-ks-projects.vercel.app//">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthk18&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+</a>
+</td>
+</tr>
+</table>
+
+
