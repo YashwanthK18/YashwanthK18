@@ -75,7 +75,7 @@
 <table>
 <tr>
 <td colspan = "2">
-<a href = "https://pranith-portfolio-bimfpo0e5-pranith-kumar-ks-projects.vercel.app//">
+<a href = "https://github.com/YashwanthK18?tab=repositories">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthk18&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
 </a>
 </td>
