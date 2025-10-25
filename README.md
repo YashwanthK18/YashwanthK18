@@ -1,4 +1,4 @@
-# Yashwanth K 
+# Yashwanth K 👋
 
 
 ## ⚡ Languages, Tools and Technologies
@@ -81,5 +81,18 @@
 </td>
 </tr>
 </table>
-
+<hr>
+<table>
+<tr>
+<td colspan = "2">
+  <strong>Leetcode Activity</strong>
+</td>
+</tr><tr>
+<td colspan = "2">
+<a href = "https://leetcode.com/u/jamesd18/">
+<img src="https://leetcode.card.workers.dev/Jamesd18?theme=nord&font=&extension=activity">
+</a>
+</td>
+</tr>
+</table>
 
