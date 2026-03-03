@@ -40,10 +40,10 @@
 </tr>
 <tr>
 <td>
-<img src = "https://skillicons.dev/icons?i=mongodb,supabase&theme=dark">
+<img src = "https://skillicons.dev/icons?i=mongodb,supabase,mysql,postgresql&theme=dark">
 </td>
 <td>
-<img src = "https://skillicons.dev/icons?i=c,cpp,py,js,java&theme=dark">
+<img src = "https://skillicons.dev/icons?i=c,cpp,py,js,java,php&theme=dark">
 </td>
 </tr>
 </table>
@@ -66,6 +66,9 @@
 </td>
 <td>
 <img src = "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" >
+</td>
+<td>
+<img src = "https://img.shields.io/badge/PyTorch-black?logo=PyTorch.svg?style=for-the-badge&logo=pandas&logoColor=white" >
 </td>
 </tr>
 </table>
