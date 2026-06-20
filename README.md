@@ -73,18 +73,3 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthk18&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
 </a>
 
----
-<table>
-<tr>
-<td colspan = "2">
-  <strong>Leetcode Activity</strong>
-</td>
-</tr><tr>
-<td colspan = "2">
-<a href = "https://leetcode.com/u/jamesd18/">
-<img src="https://leetcode.card.workers.dev/Jamesd18?theme=nord&font=&extension=activity">
-</a>
-</td>
-</tr>
-</table>
-
