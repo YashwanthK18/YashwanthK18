@@ -1,5 +1,5 @@
 # Hi, I'm Yashwanth K 👋
-💻 Third Year CSE Student  
+💻 Final Year CSE Student  
 🚀 Interested in Machine Learning, NLP, and Full-Stack Development  
 📚 Currently building AI-based research systems
 
