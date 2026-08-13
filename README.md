@@ -66,6 +66,13 @@
 
 ---
 
+# 🧩 LeetCode Activity
+<a href="https://leetcode.com/u/jamesd18/">
+<img src="https://leetcard.jacoblin.cool/jamesd18?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats">
+</a>
+
+---
+
 # 🧠 Python Libraries
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
