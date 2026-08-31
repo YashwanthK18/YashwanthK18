@@ -86,8 +86,9 @@
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub Stats
 
-<a href="https://github.com/YashwanthK18?tab=repositories">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashwanthK18&bg_color=2e3340&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
-</a>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YashwanthK18&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthK18&theme=dark&hide_border=true" width="48%"/>
+</p>
