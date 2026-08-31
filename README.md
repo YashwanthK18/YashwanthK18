@@ -67,6 +67,7 @@
 ---
 
 # 🧩 LeetCode Activity
+
 <a href="https://leetcode.com/u/jamesd18/">
 <img src="https://leetcard.jacoblin.cool/jamesd18?theme=dark&font=Karla&ext=heatmap" alt="LeetCode Stats">
 </a>
@@ -74,6 +75,7 @@
 ---
 
 # 🧠 Python Libraries
+
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
@@ -85,6 +87,7 @@
 ---
 
 # 📈 GitHub Activity
+
 <a href="https://github.com/YashwanthK18?tab=repositories">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashwanthk18&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashwanthK18&bg_color=2e3340&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff">
 </a>
