@@ -86,9 +86,8 @@
 
 ---
 
-# 📈 GitHub Stats
+### 🟩 Contribution Graph
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YashwanthK18&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthK18&theme=dark&hide_border=true" width="48%"/>
-</p>
+<a href="https://github.com/YashwanthK18/YashwanthK18/blob/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/YashwanthK18/YashwanthK18/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</a>
